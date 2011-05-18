@@ -8,7 +8,7 @@ __PACKAGE__->mk_ro_accessors(qw(country
                                 idd_prefix
                                 ndd_prefix));
 
-our $VERSION = '0.02';
+our $VERSION = '0.02_01';
 
 # Codes hash
 # ISO code maps to 3 element array containing:
