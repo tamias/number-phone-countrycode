@@ -20,7 +20,6 @@ my %Codes = (
     AE => ['971',   '00',    '0'], # United Arab Emirates
     AF => [ '93',   '00',    '0'], # Afghanistan
     AG => [  '1',  '011',    '1'], # Antigua and Barbuda
-    AG => [  '1',  '011',    '1'], # Antigua and Barbuda
     AI => [  '1',  '011',    '1'], # Anguilla
     AL => ['355',   '00',    '0'], # Albania
     AM => ['374',   '00',    '8'], # Armenia
