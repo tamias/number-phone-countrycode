@@ -10,6 +10,13 @@ CURRENT
       British Indian Ocean Territory (IO),
       Heard Island & Mcdonald Islands (HM),
       French Southern Territories (TF), Pitcairn (PN)
+    - Update codes for: Armenia (AM), Australia (AU), Azerbaijan (AZ),
+      Congo (CD), Cape Verde Islands (CV), Algeria (DZ), France (FR),
+      Grenada (GD), Ghana (GH), Greece (GR), Japan (JP), Lithuania (LT),
+      Morocco (MA), Papau New Guinea (PG), Paraguay (PY), Serbia (RS),
+      Suriname (SR), Turks and Caicos Islands (TC), Chad (TD), Taiwan (TW),
+      Ukraine (UA), Wallis and Futuna Islands (WF), South Africa (ZA),
+      Zimbabwe (ZW)
 
 0.02  Sat Feb 20 2009
     - Makefile.PL: only require version 5.008
